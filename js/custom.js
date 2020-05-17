@@ -146,7 +146,7 @@ $(document).ready(function()
 					duration:"1.04"
 				},
 				{
-					title:"Sunny",
+					title:"Capítulo3",
 					artist:"Bensound",
 					mp3:"files/bensound-sunny.mp3",
 					duration:"2.20"
@@ -158,13 +158,13 @@ $(document).ready(function()
 					duration:"4.33"
 				},
 				{
-					title:"Dubstep",
+					title:"Capítulo2",
 					artist:"Bensound",
 					mp3:"files/bensound-dubstep.mp3",
 					duration:"2.04"
 				},
 				{
-					title:"Sunny",
+					title:"Capítulo3",
 					artist:"Bensound",
 					mp3:"files/bensound-sunny.mp3",
 					duration:"2.20"
