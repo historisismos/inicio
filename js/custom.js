@@ -134,10 +134,10 @@ $(document).ready(function()
 			var playlist = 
 			[
 				{
-					title:"Better Days",
-					artist:"Bensound",
+					title:"Capítulo 1",
+					artist:"HistoriSismos",
 					mp3:"files/bensound-betterdays.mp3",
-					duration:"2.33"
+					duration:"3.00"
 				},
 				{
 					title:"Dubstep",
