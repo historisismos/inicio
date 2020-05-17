@@ -97,8 +97,8 @@ $(document).ready(function()
 			$("#jplayer_1").jPlayer({
 				ready: function () {
 					$(this).jPlayer("setMedia", {
-						title:"Better Days",
-							artist:"Bensound",
+						title:"Programa 1",
+							artist:"HistoriSismos",
 							mp3:"files/bensound-betterdays.mp3"
 					});
 				},
