@@ -134,40 +134,40 @@ $(document).ready(function()
 			var playlist = 
 			[
 				{
-					title:"Capítulo1",
+					title:"Sorpresa 1",
 					artist:"HistoriSismos",
-					mp3:"files/bensound-betterdays.mp3",
-					duration:"3.00"
+					mp3:"files/1.mp3",
+					duration:"1.00"
 				},
 				{
-					title:"Capítulo2",
+					title:"Sorpresa 2",
 					artist:"Unknow",
-					mp3:"files/bensound-dubstep.mp3",
-					duration:"1.04"
+					mp3:"files/2.mp3",
+					duration:"1.00"
 				},
 				{
-					title:"Capítulo3",
+					title:"Sorpresa 3",
 					artist:"Bensound",
-					mp3:"files/bensound-sunny.mp3",
-					duration:"2.20"
+					mp3:"files/3.mp3",
+					duration:"1.00"
 				},
 				{
-					title:"Capítulo1",
+					title:"Sorpresa 4",
 					artist:"Bensound",
-					mp3:"files/bensound-betterdays.mp3",
-					duration:"4.33"
+					mp3:"files/4.mp3",
+					duration:"1.00"
 				},
 				{
-					title:"Capítulo2",
+					title:"Sorpresa 5",
 					artist:"Bensound",
-					mp3:"files/bensound-dubstep.mp3",
-					duration:"2.04"
+					mp3:"files/5.mp3",
+					duration:"1.00"
 				},
 				{
-					title:"Capítulo3",
+					title:"Sorpresa 6",
 					artist:"Bensound",
-					mp3:"files/bensound-sunny.mp3",
-					duration:"2.20"
+					mp3:"files/6.mp3",
+					duration:"1.00"
 				}
 			];
 
