@@ -134,16 +134,16 @@ $(document).ready(function()
 			var playlist = 
 			[
 				{
-					title:"Capítulo 1",
+					title:"Capítulo1",
 					artist:"HistoriSismos",
 					mp3:"files/bensound-betterdays.mp3",
 					duration:"3.00"
 				},
 				{
-					title:"Dubstep",
-					artist:"Bensound",
+					title:"Capítulo2",
+					artist:"Unknow",
 					mp3:"files/bensound-dubstep.mp3",
-					duration:"2.04"
+					duration:"1.04"
 				},
 				{
 					title:"Sunny",
@@ -152,10 +152,10 @@ $(document).ready(function()
 					duration:"2.20"
 				},
 				{
-					title:"Better Days",
+					title:"Capítulo1",
 					artist:"Bensound",
 					mp3:"files/bensound-betterdays.mp3",
-					duration:"2.33"
+					duration:"4.33"
 				},
 				{
 					title:"Dubstep",
